@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheejevooh.chromedevtools.com/sitemap.xml
